@@ -102,7 +102,7 @@ class ChatState extends State<Chat> {
                     ),
                     //microphone icon
                     title: Container(
-                      height: 35,
+                      height: 40,
                       decoration: BoxDecoration(
                         borderRadius: BorderRadius.all(Radius.circular(10)),
                         color: Color.fromARGB(255, 255, 255, 255),
